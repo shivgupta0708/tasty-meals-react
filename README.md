@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# tasty-meals-react
+"An interactive restaurant website built with React, featuring dynamic menu options based on user selections for breakfast, lunch, or dinner. Users can easily navigate through our menu categories, explore available food items, and make informed choices."
+>>>>>>> 40e6fdde4bf6eca5ecbc2b32c4c06872800b945a
